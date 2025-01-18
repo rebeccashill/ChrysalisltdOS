@@ -56,7 +56,7 @@ A fully detailed documentation can be build locally using [Doxygen](https://www.
 ## Changelog
 
 The [ChrysalisltdOS changelog - Pure edition](pure_changelog.md) describes releases of the Pure's version of MuditaOS.
-Description of Harmony's version of the OS can be found here: [MuditaOS changelog - Harmony edition](harmony_changelog.md)
+Description of Harmony's version of the OS can be found here: [ChrysalisltdOS changelog - Harmony edition](harmony_changelog.md)
 
 ## License
 ChrysalisltdOS is licensed under [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/).
