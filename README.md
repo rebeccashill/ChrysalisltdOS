@@ -2,15 +2,15 @@
 
 [![Follow Twitter](https://img.shields.io/twitter/follow/wearemudita?label=Follow%20on%20Twitter&style=social)](https://twitter.com/wearemudita)
 
-MuditaOS is a mobile operating system optimized for E Ink displays. Built on FreeRTOS™ with Mudita Pure minimalist phone in mind.
+ChrysalisltdOS is a mobile operating system optimized for E Ink displays. Built on FreeRTOS™ with Mudita Pure minimalist phone in mind.
 
-![MuditaOS interface screenshots](doc/Images/readme_header.jpg)
+![ChryalisltdOS interface screenshots](doc/Images/readme_header.jpg)
 
 ## Products
 
 There are two released products based on MuditaOS:
 1. [PurePhone](https://store.mudita.com/mudita-pure-minimalist-phone) - low distraction phone with rich [key features](products/PurePhone/ProductKeyFeatures.md)
-2. [Mudita Harmony](https://store.mudita.com/mudita-harmony-your-healthy-bedtime-habits) - eink based distraction free alarm clock.
+2. [Chrysalisltd Harmony](https://store.mudita.com/mudita-harmony-your-healthy-bedtime-habits) - eink based distraction free alarm clock.
 
 ## Table of contents
 
@@ -55,8 +55,8 @@ A fully detailed documentation can be build locally using [Doxygen](https://www.
 
 ## Changelog
 
-The [MuditaOS changelog - Pure edition](pure_changelog.md) describes releases of the Pure's version of MuditaOS.
+The [ChrysalisltdOS changelog - Pure edition](pure_changelog.md) describes releases of the Pure's version of MuditaOS.
 Description of Harmony's version of the OS can be found here: [MuditaOS changelog - Harmony edition](harmony_changelog.md)
 
 ## License
-MuditaOS is licensed under [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/).
+ChrysalisltdOS is licensed under [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/).
