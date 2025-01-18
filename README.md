@@ -1,4 +1,4 @@
-# MuditaOS
+# ChrysalisltdOS
 
 [![Follow Twitter](https://img.shields.io/twitter/follow/wearemudita?label=Follow%20on%20Twitter&style=social)](https://twitter.com/wearemudita)
 
