@@ -8,7 +8,7 @@ ChrysalisltdOS is a mobile operating system optimized for E Ink displays. Built 
 
 ## Products
 
-There are two released products based on MuditaOS:
+There are two released products based on ChrysalisltdOS:
 1. [PurePhone](https://store.mudita.com/mudita-pure-minimalist-phone) - low distraction phone with rich [key features](products/PurePhone/ProductKeyFeatures.md)
 2. [Chrysalisltd Harmony](https://store.mudita.com/mudita-harmony-your-healthy-bedtime-habits) - eink based distraction free alarm clock.
 
